@@ -1,5 +1,5 @@
 
-# 🌍 All World Radio Station 🎧
+# 🌍 GlobalRadio 🎧
 
 Welcome to **All World Radio Station**, a modern web application that brings together **live radio channels from all over the world** — all in one place. Built with cutting-edge technologies like **React.js**, **Next.js**, **TypeScript**, and powered by public **Radio APIs**, this platform lets you explore and enjoy music, news, and talk shows from various countries and cultures.
 
@@ -7,7 +7,7 @@ Welcome to **All World Radio Station**, a modern web application that brings tog
 
 ## 📸 Demo
 
-[Live Demo Link](#) <!-- Replace with your deployed URL -->
+[Live Demo Link](#) <https://mellifluous-pie-710da6.netlify.app>
 
 ![All World Radio Station Screenshot](./public/screenshot.png) <!-- Optional: Add a real screenshot -->
 
@@ -39,9 +39,8 @@ Welcome to **All World Radio Station**, a modern web application that brings tog
   - [Radio Browser API](https://www.radio-browser.info/)
 
 - **Other Tools:**
-  - Axios or Fetch for API calls
-  - ESLint + Prettier for linting and formatting
-  - Optional: Tailwind CSS / Styled Components
+  - Axios  for API calls
+   Tailwind CSS / Styled Components
 
 ---
 
@@ -50,5 +49,5 @@ Welcome to **All World Radio Station**, a modern web application that brings tog
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/all-world-radio.git
+git clone https://github.com/your-username/.git
 cd all-world-radio
