@@ -21,7 +21,7 @@ Demo link:   <https://mellifluous-pie-710da6.netlify.app/>
 - ❤️ Add stations to favorites
 - 🔄 Real-time updates with live stream info
 - 🌓 Light & Dark mode (if implemented)
-- 🎙 Built using **Radio Browser API** or other public APIs
+- 🎙 Built using **Radio Browser API** 
 
 ---
 
