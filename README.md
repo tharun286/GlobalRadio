@@ -49,5 +49,5 @@ Demo link:   <https://mellifluous-pie-710da6.netlify.app/>
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/.git
-cd all-world-radio
+git clone https://github.com/your-username/GlobalRadio.git
+cd GlobalRadio
